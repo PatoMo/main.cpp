@@ -1,2 +1,0 @@
-//Funciones o Prototipos
-paciente();
